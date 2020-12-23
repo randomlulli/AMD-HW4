@@ -1,3 +1,8 @@
+ **Repo owner**:
+    - Francesco Verdini
+    - Luca Palluzzi
+    - Guillame Teissier
+
 # Homework 4 - Hard coding
 
 **Goal of the homework**: write important algorithms and functions from scratch.
