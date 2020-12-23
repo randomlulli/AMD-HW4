@@ -5,6 +5,13 @@
 
 # Homework 4 - Hard coding
 
+[Question 1 and 3](https://nbviewer.jupyter.org/github/randomlulli/AMD-HW4/blob/main/Question1_and_3.ipynb)
+
+[Question 2](https://nbviewer.jupyter.org/github/randomlulli/AMD-HW4/blob/main/HW4%20-%20Q2.ipynb)
+
+[BonusPoint](https://nbviewer.jupyter.org/github/randomlulli/AMD-HW4/blob/main/BonusPoint.ipynb)
+
+
 **Goal of the homework**: write important algorithms and functions from scratch.
 
 ## 1. Hashing
